@@ -1,0 +1,4 @@
+title: "dart Knowledge Pack"
+lang: en
+tags: [language, dart]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

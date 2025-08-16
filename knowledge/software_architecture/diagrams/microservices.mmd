@@ -1,0 +1,7 @@
+flowchart LR
+  A[API Gateway] --> B[Auth Service]
+  A --> C[Orders Service]
+  C --> D[DB - Orders]
+  A --> E[Inventory Service]
+  E --> F[DB - Inventory]
+  C -- events --> E

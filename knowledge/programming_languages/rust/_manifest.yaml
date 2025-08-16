@@ -1,0 +1,4 @@
+title: "rust Knowledge Pack"
+lang: en
+tags: [language, rust]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

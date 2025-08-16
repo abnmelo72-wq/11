@@ -1,0 +1,4 @@
+title: "haskell Knowledge Pack"
+lang: en
+tags: [language, haskell]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

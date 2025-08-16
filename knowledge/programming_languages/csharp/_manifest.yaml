@@ -1,0 +1,4 @@
+title: "csharp Knowledge Pack"
+lang: en
+tags: [language, csharp]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

@@ -1,0 +1,4 @@
+title: "zig Knowledge Pack"
+lang: en
+tags: [language, zig]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

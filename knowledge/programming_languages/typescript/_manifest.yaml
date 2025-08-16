@@ -1,0 +1,4 @@
+title: "typescript Knowledge Pack"
+lang: en
+tags: [language, typescript]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

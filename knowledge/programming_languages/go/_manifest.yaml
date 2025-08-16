@@ -1,0 +1,4 @@
+title: "go Knowledge Pack"
+lang: en
+tags: [language, go]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

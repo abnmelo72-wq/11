@@ -1,0 +1,4 @@
+title: "javascript Knowledge Pack"
+lang: en
+tags: [language, javascript]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

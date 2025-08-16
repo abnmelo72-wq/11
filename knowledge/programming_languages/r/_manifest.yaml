@@ -1,0 +1,4 @@
+title: "r Knowledge Pack"
+lang: en
+tags: [language, r]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

@@ -1,0 +1,4 @@
+title: "python Knowledge Pack"
+lang: en
+tags: [language, python]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]

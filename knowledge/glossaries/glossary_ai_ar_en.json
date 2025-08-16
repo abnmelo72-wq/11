@@ -1,0 +1,3 @@
+{
+  "transformer": {"ar": "محول", "en": "Transformer", "desc_ar": "بنية تعتمد الانتباه", "desc_en": "Attention-based architecture"}
+}

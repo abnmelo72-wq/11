@@ -1,0 +1,4 @@
+title: "shell Knowledge Pack"
+lang: en
+tags: [language, shell]
+sections: [overview, syntax, stdlib, libraries, patterns, tooling, performance, snippets]
